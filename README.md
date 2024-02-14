@@ -28,4 +28,12 @@ Section 6: 1.Calculate Sum of First n Positive Integers 2.User Input:The script 
 
 Section 7: 1.Calculate Total Weight of Widgets and Gizmos 2. User Input:Constants widget and gizmos are given, representing the weights per unit of widget and gizmo. 3.The user is prompted to enter the number of widgets (user_widget) and gizmos (user_gizmos). 4.Calculate Total Weight:The total weight is computed as the product of the respective weights and the user-entered quantities. 5.Display Result:The script prints the total weight of widgets and gizmos.
 
+Section 8: 1.Calculate Compound Interest 2.Welcome Message:The script welcomes the user to the compound interest calculator. 3.User Input:The user is asked to enter the amount deposited (user_deposit) and the number of years (n). 4.Calculate Compound Interest:Compound interest is calculated using the formula amount = user_deposit * (1 + interest/100)**n. 5.Display Result:The script prints the calculated compound interest.
+
+Section 9: 1.Convert Height Units 2. User Input:The script prompts the user to enter their height in feet (feet) and inches (inches). 3.Convert to Centimeters:The height is converted to centimeters using the conversion factors per_ft and per_in. 4.Display Result:The script prints the user's height in inches and centimeters.
+
+Section 10: 1.Find Area and Volume 2.Welcome Message:The script welcomes the user to the area and volume finding calculator. 3.User Input:The user is prompted to enter the radius of a circle (radius). 4.Calculate Area and Volume:The area and volume of a sphere are calculated using the formulas: area = 4 * π * radius^2 and volume = (4/3) * π * radius^3. 5.Display Result:The script prints the calculated area and volume.
+
+Section 11: 1.Convert Distance Units 2.Welcome Message:The script welcomes the user to the distance units calculator. 3.User Input:The user is prompted to enter a distance in feet (dis_feet). 4.Convert Distances:The distance is converted to inches (dis_inches), yards (dis_yard), and miles (dis_mile) using the appropriate conversion factors. 5.Display Result:The script prints the converted distances in inches, yards, and miles.
+
 
