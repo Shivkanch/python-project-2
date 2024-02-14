@@ -3,7 +3,9 @@ python project 2:-
 Section 1: Welcome UserWelcome
 
 1.Message:The script welcomes the user.
+
 2.User Input:The user is prompted to enter their name (username).
+
 3.Greeting:The script greets the user by printing "Hello" followed by their entered name.
 
 Section 2:
