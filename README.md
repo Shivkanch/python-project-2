@@ -22,3 +22,10 @@ Section 4:
 5.Calculate Refund:The refund amount is calculated based on the entered values and refund rates.
 6.Display Result:The script prints the calculated recycling refund.
 
+Section 5: 1.Calculate Tax and Tip 2.Welcome Message:The script welcomes the user to the friends' meal calculator. 3.Tax and Tip Rates:Constants tax_rate and tip_rate represent the tax and tip rates. 4.User Input:The user is prompted to enter the cost of their happy meal (cost). 5.Calculate Tax, Tip, and Total:The tax, tip, and total cost of the meal are calculated. 6.Display Result:The script prints the calculated tax and tip for the meal.
+
+Section 6: 1.Calculate Sum of First n Positive Integers 2.User Input:The script prompts the user to enter a positive integer (n). 3.Calculate Sum:The sum of the first n positive integers is calculated using the formula n * (n + 1) / 2. 4.Display Result:The script prints the entered positive integer (n) and the calculated sum of positive integers.
+
+Section 7: 1.Calculate Total Weight of Widgets and Gizmos 2. User Input:Constants widget and gizmos are given, representing the weights per unit of widget and gizmo. 3.The user is prompted to enter the number of widgets (user_widget) and gizmos (user_gizmos). 4.Calculate Total Weight:The total weight is computed as the product of the respective weights and the user-entered quantities. 5.Display Result:The script prints the total weight of widgets and gizmos.
+
+
