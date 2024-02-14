@@ -1,4 +1,5 @@
 python project 2:-
+
 Section 1: Welcome UserWelcome 1.Message:The script welcomes the user.
 2.User Input:The user is prompted to enter their name (username).
 3.Greeting:The script greets the user by printing "Hello" followed by their entered name.
@@ -36,4 +37,5 @@ Section 10: 1.Find Area and Volume 2.Welcome Message:The script welcomes the use
 
 Section 11: 1.Convert Distance Units 2.Welcome Message:The script welcomes the user to the distance units calculator. 3.User Input:The user is prompted to enter a distance in feet (dis_feet). 4.Convert Distances:The distance is converted to inches (dis_inches), yards (dis_yard), and miles (dis_mile) using the appropriate conversion factors. 5.Display Result:The script prints the converted distances in inches, yards, and miles.
 
+Section 12: 1.Order Three Integers 2.User Input:The script prompts the user to enter three integers (a, b, and c). 3.Find Minimum and Maximum:The script calculates the minimum and maximum values among the three integers using the min() and max() functions. 4.Calculate Second-largest Value:The second-largest value is determined by adding all three integers and subtracting the minimum and maximum values. 5.Display Result:The script prints the sorted order of the three integers with the minimum, second-largest, and maximum values.
 
