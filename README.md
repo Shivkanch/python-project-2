@@ -18,3 +18,7 @@ Section 4:
 1.Calculate Bottle Refund
 2.Welcome Message:The script welcomes the user to the refund calculator for bottle recycling.
 3.Value Constants:Constants value_less and value_more represent refund values for bottles.
+4.User Input:The user is asked to enter the number of bottles less than 1 liter (less) and more than 1 liter (more).
+5.Calculate Refund:The refund amount is calculated based on the entered values and refund rates.
+6.Display Result:The script prints the calculated recycling refund.
+
